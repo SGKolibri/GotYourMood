@@ -77,5 +77,4 @@ O **Moodflix** não seria possível sem o apoio de algumas ferramentas e comunid
 - **Framer Motion**: Por possibilitar animações fluidas e interativas, melhorando a experiência do usuário.  
   [Visite o Framer Motion](https://www.framer.com/motion/)
 
-Muito obrigado a todos que contribuíram direta ou indiretamente para este projeto! 🙏  
-Seu trabalho e dedicação são essenciais para a evolução da tecnologia e da comunidade de desenvolvimento. 🚀
+Muito obrigado! 🙏🚀
