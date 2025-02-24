@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // Use ES6 for modern features
+    "module": "ESNext", // Use ESNext for modern module syntax
+    "jsx": "react-jsx", // Use react-jsx for React 17+ JSX transform
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ES2016", "ES6", "DOM"], // Use ES6 for modern features
+    "moduleResolution": "node", // Ensure Node.js-style module resolution
+    "outDir": "./dist", // Output directory for compiled files
+    "rootDir": "./src" // Root directory for source files
+  },
+  "include": ["src"]
+}
