@@ -3,6 +3,7 @@ import Header from "../components/header";
 import GenreButton from "../components/genrebutton";
 import genres from "../utils/genres";
 import SubmitButton from "../components/submitbutton";
+import Footer from "../components/footer";
 
 function Homepage() {
   const [selectedGenres, setSelectedGenres] = useState<string[]>([]); // type of selectedGenres is string[]
@@ -49,6 +50,7 @@ function Homepage() {
         </div>
 
         {/* footer container */}
+        <Footer />
       </div>
     </>
   );
